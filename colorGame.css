@@ -16,7 +16,7 @@ body {
 }
 
 .square:hover {
-    transform: translateY(-1px);
+    transform: translateY(1px);
 }
 
 #container {
